@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[landescapes]]></title>
         <description><![CDATA[landescapes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/landescapes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 01:34:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 01:36:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/landescapes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/198c539f-8e19-4f00-9449-99ee71b79b6f.jpg">]]></description>
-            <link>undefinedfb80e7ed-bc8e-4361-ad4f-f157d94b1121/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/198c539f-8e19-4f00-9449-99ee71b79b6f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/landescapes/fb80e7ed-bc8e-4361-ad4f-f157d94b1121/index.html</link>
             <guid isPermaLink="false">fb80e7ed-bc8e-4361-ad4f-f157d94b1121</guid>
-            <pubDate>Sun, 17 Jul 2016 01:34:35 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2016 01:36:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
